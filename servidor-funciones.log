@@ -1,0 +1,3 @@
+Hospital: http://127.0.0.1:8765/hospital/
+Registro: http://127.0.0.1:8765/registro/
+Presiona Ctrl+C para detener el servidor.

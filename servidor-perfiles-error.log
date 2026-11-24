@@ -1,0 +1,375 @@
+127.0.0.1 - - [23/Nov/2026 06:12:14] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:12:14] "GET /panel.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:42:55] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:42:56] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:42:56] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:42:56] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:43:26] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:43:29] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:43:33] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:43:37] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:43:42] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:43:49] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:43:49] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:43:49] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:43:49] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:43:49] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:43:49] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:43:52] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:03] "GET /panel/?seccion=qr HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:03] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:03] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:11] "GET /api/qr?cuenta=223d370b9bc44fd395222bb461f6aaf2 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:17] "GET /api/qr?cuenta=6fbf3a30cb4b42f7a35fd7667fed7da5 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:24] "GET /api/qr?cuenta=542f778b45c7422997e051580c907157 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:28] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:28] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:28] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:28] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:50] "GET /panel/?seccion=configuracion HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:50] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:50] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:53] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:53] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:53] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:44:53] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:10] "GET /panel/?seccion=inicio HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:10] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:10] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:10] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:10] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:14] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:14] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:19] "POST /salir HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:45:19] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:19] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:19] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:19] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:21] "GET /registro/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:21] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:21] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:45:24] "GET /api/registro HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:48:01] "POST /api/registro HTTP/1.1" 201 -
+127.0.0.1 - - [23/Nov/2026 06:48:25] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:48:25] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:48:25] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:48:25] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:50:33] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:50:37] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:50:41] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:50:45] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:50:49] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:50:53] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:50:59] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:50:59] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:50:59] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:50:59] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:50:59] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:50:59] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:03] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:20] "GET /panel/?seccion=asignaciones HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:20] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:20] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:20] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:21] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:21] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:24] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:33] "GET /panel/?seccion=configuracion HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:33] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:33] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:37] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:37] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:37] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:51:37] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:02] "GET /panel/?seccion=funcion-09a9762e029a8ad2 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:02] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:02] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:02] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:02] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:03] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:06] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:21] "GET /panel/?seccion=funcion-ec687b7cb6bc8918 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:21] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:21] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:21] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:21] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:21] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:25] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:34] "POST /salir HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:52:35] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:35] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:35] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:52:35] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:53:49] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:53:53] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:53:57] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:54:01] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 06:54:07] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:07] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:07] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:07] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:07] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:07] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:12] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:20] "GET /panel/?seccion=qr HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:20] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:27] "GET /api/qr?cuenta=542f778b45c7422997e051580c907157 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:27] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:27] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:27] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:27] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:30] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:52] "GET /panel/?seccion=funcion-05ddfd91d3242f88 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:52] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:52] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:52] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:52] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:52] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:54:55] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:16] "GET /panel/?seccion=configuracion HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:16] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:16] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:20] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:20] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:20] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:20] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:27] "GET /panel/?seccion=qr HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:27] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:27] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:34] "GET /api/qr?cuenta=542f778b45c7422997e051580c907157 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:34] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:34] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:34] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 06:55:38] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:07] "GET /panel/?seccion=configuracion HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 07:24:07] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:07] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:07] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:07] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:19] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 07:24:26] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:27] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:27] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:27] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:27] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:27] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:24:31] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:27:06] "POST /salir HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 07:27:06] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:27:07] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:27:07] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:27:07] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:48:57] "GET /registro/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:48:58] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:48:58] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:02] "GET /api/registro HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:15] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 07:49:21] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:21] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:21] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:21] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:21] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:25] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:25] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:34] "GET /panel/?seccion=usuarios HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:34] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:34] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:34] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:38] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:38] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:49:38] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:07] "GET /panel/?seccion=pacientes HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:07] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:07] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:07] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:07] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:07] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:11] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:21] "GET /panel/?seccion=areas HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:22] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:22] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:22] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:22] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:25] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:25] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:38] "GET /?tabla=tbl_Areas HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:38] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:38] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:44] "GET /api/form HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:44] "GET /hospital.png?v=2 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:50:50] "GET /api/form?tabla=tbl_Areas HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:51:05] "GET /api/form?tabla=tbl_Solicitudes_Web HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:51:11] "GET /api/form?tabla=tbl_Citas HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:02] "POST /api/form HTTP/1.1" 400 -
+127.0.0.1 - - [23/Nov/2026 07:53:11] "GET /panel/?seccion=areas HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:11] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:11] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:11] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:11] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:15] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:15] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:25] "GET /panel/?seccion=pacientes HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:25] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:25] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:25] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:28] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:28] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:28] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:41] "GET /panel/?seccion=funcion-44b38db4547cb524 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:41] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:41] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:41] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:41] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:41] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:45] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:50] "POST /salir HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 07:53:50] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:50] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:50] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:53:50] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:54:45] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 07:54:52] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:54:52] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:54:52] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:54:52] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:54:52] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:54:52] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:54:55] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:05] "GET /panel/?seccion=asignaciones HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:05] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:05] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:05] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:05] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:05] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:09] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:19] "GET /panel/?seccion=inicio HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:19] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:19] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:19] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:19] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:19] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 07:55:23] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:14] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:14] "GET /panel.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:41] "GET /panel/?seccion=inicio HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 09:02:41] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:41] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:41] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:41] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:41] "GET /hospital.png?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:53] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 09:02:59] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:59] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:59] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:02:59] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:00] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:00] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:03] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:09] "POST /salir HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 09:03:09] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:09] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:09] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:09] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:42] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:42] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:42] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:42] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:51] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 09:03:57] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:57] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:03:57] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:01] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:01] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:01] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:01] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:08] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:08] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:08] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:08] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:04:08] "GET /hospital.png?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:05] "GET /panel/?seccion=asignaciones HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:05] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:05] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:05] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:05] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:05] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:09] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:16] "GET /panel/?seccion=configuracion HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:16] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:16] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:19] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:19] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:19] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:06:19] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:02] "GET /panel/?seccion=asignaciones HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:02] "GET /panel/?seccion=asignaciones HTTP/1.1" 503 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 61286)
+Traceback (most recent call last):
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\servidor.py", line 175, in do_GET
+    cuenta = self.cuenta_actual()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 176, in reply
+    self.send_header('Cache-Control', 'no-store')
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 447, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 435, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\servidor.py", line 180, in do_GET
+    if cuenta.get("rol") != "Administrador":
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        return self.json(403, {
+        ^^^^^^^^^^^^^^^^^^^^^^^
+            "error": "Esta sección requiere administración."
+    
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 179, in json
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 175, in reply
+    self.send_header('Content-Length', str(len(body)))
+    ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 549, in end_headers
+    self.flush_headers()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 553, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+----------------------------------------
+127.0.0.1 - - [23/Nov/2026 09:12:09] "GET /panel/?seccion=inicio HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:09] "GET /panel.css?v=3 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:09] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:09] "GET /panel.js?v=perfil1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:09] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:09] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:13] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:14] "POST /salir HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 09:12:14] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:14] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:14] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:12:14] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:16:01] "GET /panel.js HTTP/1.1" 200 -

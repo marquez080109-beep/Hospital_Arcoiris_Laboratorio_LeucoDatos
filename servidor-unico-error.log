@@ -1,0 +1,176 @@
+127.0.0.1 - - [23/Nov/2026 09:20:56] "GET /api/version HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:22:15] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:22:15] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:22:15] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:22:15] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:23:34] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:25:52] "GET /api/version HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:25:52] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:25:52] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:25:52] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:25:53] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:17] "GET /api/version HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:17] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:17] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:18] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:18] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:47] "GET /hospital/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:49] "GET /hospital/estilos.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:49] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:27:49] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:00] "POST /login HTTP/1.1" 303 -
+127.0.0.1 - - [23/Nov/2026 09:28:09] "GET /panel/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:10] "GET /panel.css?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:10] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:10] "GET /panel.js?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:10] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:10] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:14] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:28:14] "GET /api/version HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:09] "GET /panel/?seccion=funcion-09a9762e029a8ad2 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:10] "GET /panel.css?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:10] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:10] "GET /panel.js?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:10] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:10] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:15] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:15] "GET /api/version HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:23] "GET /panel/?seccion=inicio HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:24] "GET /panel.css?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:24] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:24] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:24] "GET /panel.js?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:24] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:28] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:28] "GET /api/version HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:59] "GET /panel/?seccion=funcion-09a9762e029a8ad2 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:59] "GET /panel.css?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:59] "GET /qr-reader.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:59] "GET /panel.js?v=funciones1 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:59] "GET /hospital.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:31:59] "GET /leucodatos.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:32:03] "GET /api/foto HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:32:03] "GET /api/foto HTTP/1.1" 503 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 54656)
+Traceback (most recent call last):
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\servidor.py", line 167, in do_GET
+    return self.reply(200, imagen, tipo)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 178, in reply
+    self.wfile.write(body)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 447, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 435, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\servidor.py", line 232, in do_GET
+    return self.json(503, {
+           ~~~~~~~~~^^^^^^^
+        "error": "No se pudo consultar el Excel."
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    })
+    ^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 181, in json
+    self.reply(code, json.dumps(payload, ensure_ascii=False).encode('utf-8'))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 177, in reply
+    self.end_headers()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 549, in end_headers
+    self.flush_headers()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 553, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+----------------------------------------
+127.0.0.1 - - [23/Nov/2026 09:32:03] "GET /api/version HTTP/1.1" 200 -
+127.0.0.1 - - [23/Nov/2026 09:32:03] "GET /api/version HTTP/1.1" 503 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 61473)
+Traceback (most recent call last):
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\servidor.py", line 128, in do_GET
+    return self.json(200, {'version': VERSION, 'reinicio_necesario': VERSION != version_en_disco()})
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 181, in json
+    self.reply(code, json.dumps(payload, ensure_ascii=False).encode('utf-8'))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 178, in reply
+    self.wfile.write(body)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 447, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 435, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\servidor.py", line 232, in do_GET
+    return self.json(503, {
+           ~~~~~~~~~^^^^^^^
+        "error": "No se pudo consultar el Excel."
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    })
+    ^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 181, in json
+    self.reply(code, json.dumps(payload, ensure_ascii=False).encode('utf-8'))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marqu\OneDrive\Desktop\Hospital_Arcoiris_Leucodata\sitio\captura.py", line 177, in reply
+    self.end_headers()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 549, in end_headers
+    self.flush_headers()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 553, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+----------------------------------------
